@@ -3,18 +3,7 @@
 
 Struktur file Project Laraval + Docker
 
-FolderProject
-|
----nginx
-|
-|----- default.conf
-|
---- mysql
-|
---- src
-|
-docker-compose.yml
-Dockerfile
+_![Screenshot 2022-08-04 191907](https://user-images.githubusercontent.com/18047284/182845294-43635c71-820c-49df-bf9d-43ae7a3982c7.png)
 
 #Rule
 
